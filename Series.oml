@@ -1,0 +1,4 @@
+; OM File Header - Saved 2022/08/05 15:57:09
+; (6.2 :lisp (om-make-point 660 299) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2022/08/05 10:55:52" "2022/08/05 15:57:09")
+; End File Header
+(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "Series" 6.2 ";;; Cria series numéricas$(lambda (a b c ) $$             (defun serie (a b c) (loop for num from a to b by c collect num))$             $             (list $                  (serie a b c)$             )$)"))

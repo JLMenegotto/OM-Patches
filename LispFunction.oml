@@ -1,0 +1,4 @@
+; OM File Header - Saved 2022/08/05 15:57:09
+; (6.2 :lisp (om-make-point 782 354) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2022/08/05 12:43:11" "2022/08/05 15:57:09")
+; End File Header
+(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "LispFunction" 6.2 ";;; Edit a valid LAMBDA EXPRESSION for \"LispFunction\"$;;; e.g. (lambda (arg1 arg2 ...) ( ... ))$$(lambda () (om-beep))"))

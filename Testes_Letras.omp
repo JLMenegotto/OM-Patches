@@ -1,5 +1,5 @@
-; OM File Header - Saved 2022/08/01 15:27:07
-; (6.2 :patc (om-make-point 157.0 70) (om-make-point 291 239) (om-make-point 1204 561) "" 183 0 "2022/07/21 7:02:51" "2022/08/01 15:27:07")
+; OM File Header - Saved 2022/08/04 14:01:48
+; (6.2 :patc (om-make-point 911.0 70) (om-make-point 291 239) (om-make-point 1204 561) "" 183 0 "2022/07/21 7:02:51" "2022/08/01 15:27:07")
 ; End File Header
 ; External resources 
 ; (list (list (quote :abstraction) "#P\"C:BuscaNota.omp\"" "#P\"C:SeparaCaracteres.omp\"" "#P\"C:Intervalos.omp\"" "#P\"C:Escalas.omp\""))

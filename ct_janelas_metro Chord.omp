@@ -1,5 +1,5 @@
-; OM File Header - Saved 2022/08/02 12:49:18
-; (6.2 :patc (om-make-point 133 200) (om-make-point -8 -8) (om-make-point 1920 978) "" 183 0 "2022/08/01 9:09:04" "2022/08/01 15:27:11")
+; OM File Header - Saved 2022/08/04 14:01:54
+; (6.2 :patc (om-make-point 135.0 130) (om-make-point -8 -8) (om-make-point 1920 978) "" 183 0 "2022/08/01 9:09:04" "2022/08/01 15:27:11")
 ; End File Header
 ; External resources 
 ; (list (list (quote :abstraction) "#P\"C:unificado.omp\""))

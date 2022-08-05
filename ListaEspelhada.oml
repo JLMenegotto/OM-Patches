@@ -1,0 +1,4 @@
+; OM File Header - Saved 2022/08/05 11:18:14
+; (6.2 :lisp (om-make-point 776 257) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2022/08/05 10:58:46" "2022/08/05 11:18:14")
+; End File Header
+(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "ListaEspelhada" 6.2 ";;retorna uma lista com a lista espelhada$(lambda (l) (list l (reverse l)))$"))

@@ -1,5 +1,5 @@
-; OM File Header - Saved 2022/08/02 12:49:18
-; (6.2 :patc (om-make-point 601.0 7) (om-make-point 791 177) (om-make-point 955 732) "" 183 0 "2022/08/01 12:26:34" "2022/08/02 7:18:01")
+; OM File Header - Saved 2022/08/04 14:01:54
+; (6.2 :patc (om-make-point 662.0 10) (om-make-point 791 177) (om-make-point 955 732) "" 183 0 "2022/08/01 12:26:34" "2022/08/02 7:18:01")
 ; End File Header
 ; External resources 
 ; (list (list (quote :abstraction) "#P\"M_OIRORI.omp\""))
